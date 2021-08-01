@@ -1,4 +1,4 @@
-# Receptive fiedl calculator
+# Receptive Field Calculator
 
 This web service visualizes your CNN layers and receptive fields.
 
